@@ -45,7 +45,7 @@ apply my knowledge and skills for continuous improvement.`,
     {
       designation: "Software Engineer",
       companyName: "Neoito Private Limited",
-      year: "06/2020-present",
+      year: "06/2022-present",
       location: "Kochi, India",
       details: `• Worked on UI development for a dashboard for Business Administrators using React JS.
       • Worked on a project that aims to generate a website for a business purpose based on user input.
