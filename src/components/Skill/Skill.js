@@ -13,17 +13,17 @@ const Skill = () => {
         "I was able to work effectively and efficiently as part of a team.",
     },
     {
-      title: "Communication SKill",
+      title: "Communication Skill",
       description:
         " Clear and concise communication skills as demonstrated through interaction with team members",
     },
     {
-      title: " Organizational skills",
+      title: " Organizational Skill",
       description:
         "I have constantly developed and improved my organization skills through my projects and education.",
     },
     {
-      title: "Presentation skills",
+      title: "Presentation Skill",
       description:
         "Gained through participation in course seminars and presentation of projects.",
     },
